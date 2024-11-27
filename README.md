@@ -12,26 +12,27 @@ Demonstrate the application of machine learning techniques for solving data-driv
 # Contents
 
 1. Cybersecurity Projects
-2. Router Configuration Project
+   
+# Router Configuration Project
 
 Description: Configures a Linux-based router to manage network traffic using tools like DHCP, iptables, and IP forwarding.
-
 Key Features:
+DHCP server setup for dynamic IP allocation.
+Firewall rules for network security.
+IP forwarding to route traffic effectively.
 
-- DHCP server setup for dynamic IP allocation.
-- Firewall rules for network security.
-- IP forwarding to route traffic effectively.
-- Web Security Attacks Simulation
+# Web Security Attacks Simulation
 
 Description: Simulates common web vulnerabilities and attacks (e.g., SQL Injection, XSS, CSRF) in a controlled environment using DVWA.
-
 Key Features:
 Tools: SQLMap, Nikto, and manual testing.
 Vulnerability assessment and exploitation.
+Countermeasures and mitigation strategies.
 
 
 
-3. Machine Learning Projects
+
+2. Machine Learning Projects
    
 Project Name 1: BreastCancer Detection
 
