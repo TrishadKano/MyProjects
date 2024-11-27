@@ -11,9 +11,9 @@ Demonstrate the application of machine learning techniques for solving data-driv
 
 # Contents
 
-1. Cybersecurity Projects
+# Cybersecurity Projects
    
-# Router Configuration Project
+Router Configuration Project
 
 Description: Configures a Linux-based router to manage network traffic using tools like DHCP, iptables, and IP forwarding.
 Key Features:
@@ -21,7 +21,7 @@ DHCP server setup for dynamic IP allocation.
 Firewall rules for network security.
 IP forwarding to route traffic effectively.
 
-# Web Security Attacks Simulation
+Web Security Attacks Simulation
 
 Description: Simulates common web vulnerabilities and attacks (e.g., SQL Injection, XSS, CSRF) in a controlled environment using DVWA.
 Key Features:
@@ -31,10 +31,9 @@ Countermeasures and mitigation strategies.
 
 
 
-
-2. Machine Learning Projects
+# Machine Learning Projects
    
-Project Name 1: BreastCancer Detection
+BreastCancer Detection
 
 Description: The Projects Features Detection of Breast Cancer Using Machine Learning. It has been tested that while there exists several machine learning models,Support Vector Machine or SVM in short is reported to have highest accuracy of (approximately 97%) in detecting breast cancer.
 
