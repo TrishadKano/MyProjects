@@ -13,17 +13,19 @@ Certain assumptions were made about the data.
 This means that these visuals should be treated as lower bounds on the actual numbers.
 
 ## Number of attacks by weapon
-The second plot in the gallery shows the number of attacks by weapon type and region. As can be seen `explosives` a by far the most popular weapon type. Also note that categories `fake weapons`, `biological` and `radiological` have been left out of the plot due to the scarcity of such attacks.
+The first plot in the gallery shows the number of attacks by weapon type and region. As can be seen `explosives` a by far the most popular weapon type. Also note that categories `fake weapons`, `biological` and `radiological` have been left out of the plot due to the scarcity of such attacks.
 
 ![output2](https://github.com/user-attachments/assets/3b257bf6-1dde-48cf-8c4c-31f6da4a979a)
 
 
 ## Attack location by group
-Lastly, I present you with a map revealing the attack locations of the `five most deadly` terrorist groups. Each dot represents an attack and each attack is colour coded by group.
+Secondly, I present you with a map revealing the attack locations of the `five most deadly` terrorist groups. Each dot represents an attack and each attack is colour coded by group.
 
 
 ![output](https://github.com/user-attachments/assets/3f3c3658-759c-4fa5-832b-c77536101311)
+
 ## Deaths by weapon over time
+Thirdly, 
 ![deaths_by_weapon_over_time](https://github.com/user-attachments/assets/6eaf5a61-807a-493a-9291-9418ede2df61)
 
 ## Attacks by weapon
