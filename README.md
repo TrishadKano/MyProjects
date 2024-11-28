@@ -31,13 +31,15 @@ Countermeasures and mitigation strategies.
 
 
 
-# Machine Learning Projects
+# Data Analysis and AI/Machine Learning Projects
    
 BreastCancer Detection
 
 Description: The Projects Features Detection of Breast Cancer Using Machine Learning. It has been tested that while there exists several machine learning models,Support Vector Machine or SVM in short is reported to have highest accuracy of (approximately 97%) in detecting breast cancer.
 
+Global Terrorism
 
+Description: Detailed analysis of specific terrorism incidents or groups, focusing on motivations, impacts, and responses. 
 # Usage
 
 Navigate to the respective project directories for detailed documentation and instructions.
