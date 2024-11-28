@@ -41,5 +41,4 @@ Lastly, I present you with a map revealing the attack locations of the `five mos
 ## Top five groups percent
 ![top_five_groups_percent_ts](https://github.com/user-attachments/assets/6995d7cd-5e24-46b1-9a83-6fbec6c2eb5d)
 
-## Deaths by weapon over time
-![deaths_by_weapon_over_time](https://github.com/user-attachments/assets/589513a4-13af-474b-8d4f-cfdcd6a47ac1)
+
