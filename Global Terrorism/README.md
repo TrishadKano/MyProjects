@@ -25,7 +25,7 @@ Secondly, I present you with a map revealing the attack locations of the `five m
 ![output](https://github.com/user-attachments/assets/3f3c3658-759c-4fa5-832b-c77536101311)
 
 ## Deaths by weapon over time
-Thirdly, 
+
 ![deaths_by_weapon_over_time](https://github.com/user-attachments/assets/6eaf5a61-807a-493a-9291-9418ede2df61)
 
 ## Attacks by weapon
