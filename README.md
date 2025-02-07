@@ -10,9 +10,9 @@ This space is a showcase of my technical expertise and practical experience in C
 
 ## 📊 Data Analysis & Visualization:
 
-**Python, SQL (MySQL, PostgreSQL), SSMS, Microsoft Excel, and Power BI for data manipulation and visualization.**
+Python, SQL (MySQL, PostgreSQL), SSMS, Microsoft Excel, and Power BI for data manipulation and visualization.
 
-**Transforming raw data into actionable insights through statistical analysis, dashboards, and reports.**  
+Transforming raw data into actionable insights through statistical analysis, dashboards, and reports.  
 
 
 ## 🤖 AI & Machine Learning: 
