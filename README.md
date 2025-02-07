@@ -1,5 +1,5 @@
 
-#### Welcome to My Repository! 🚀
+##Welcome to My Repository! 🚀
 
 
 This space is a showcase of my technical expertise and practical experience in Cybersecurity, Data Analysis 📊, and AI/Machine Learning. Each project reflects my ability to solve real-world challenges, explore cutting-edge technologies, and deliver innovative solutions.
@@ -37,8 +37,8 @@ Projects showcasing Linux security, penetration testing, and threat mitigation t
 
 **📊 Data Analysis Projects:**
 
-**Extracting insights from complex datasets using Python, SQL, SSMS, MySQL, PostgreSQL, and Power BI.
-Data visualization and dashboard creation to communicate findings effectively.**
+Extracting insights from complex datasets using Python, SQL, SSMS, MySQL, PostgreSQL, and Power BI.
+Data visualization and dashboard creation to communicate findings effectively.
 
 **🤖 AI/Machine Learning Projects:**
 
