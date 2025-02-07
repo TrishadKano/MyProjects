@@ -15,12 +15,12 @@ This space is a showcase of my technical expertise and practical experience in C
 **Transforming raw data into actionable insights through statistical analysis, dashboards, and reports.**  
 
 
-**🤖 AI & Machine Learning:**  
+## 🤖 AI & Machine Learning: 
 Implementation of machine learning models for classification, prediction, and optimization using advanced frameworks.
 
 Experience with deep learning, feature engineering, and model evaluation.
 
-**🔐 Cybersecurity:**
+## 🔐 Cybersecurity:
 
 Linux-based security implementations for vulnerability assessment and system hardening.
 Cybersecurity frameworks and simulations for identifying and mitigating security threats.
