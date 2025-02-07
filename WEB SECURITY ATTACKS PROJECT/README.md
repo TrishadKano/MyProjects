@@ -1,6 +1,5 @@
 # Web Security Attacks Project
 
-1. Introduction
    
 Web security attacks are increasingly prevalent in today's digital landscape. Websites 
 and web applications, being integral to businesses, governments, and individuals, are 
@@ -77,9 +76,9 @@ Nikto: Web vulnerability scanner.
 
 1. Basic Ubuntu Setup
 
-sudo apt update && sudo apt upgrade -y
+''sudo apt update && sudo apt upgrade -y
 
-sudo apt install curl wget git -y
+sudo apt install curl wget git -y''
 
 2. Install LAMP Stack
 
