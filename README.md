@@ -8,19 +8,19 @@ This space is a showcase of my technical expertise and practical experience in C
 
 **I have hands-on experience with various tools and platforms, including:**
 
-**📊 Data Analysis & Visualization**
+**📊 Data Analysis & Visualization:**
 
 **Python, SQL (MySQL, PostgreSQL), Excel, and Power BI for data manipulation and visualization.**
 
 **Transforming raw data into actionable insights through statistical analysis, dashboards, and reports.**  
 
 
-**🤖 AI & Machine Learning**  
+**🤖 AI & Machine Learning:**  
 Implementation of machine learning models for classification, prediction, and optimization using advanced frameworks.
 
 Experience with deep learning, feature engineering, and model evaluation.
 
-**🔐 Cybersecurity**
+**🔐 Cybersecurity:**
 
 Linux-based security implementations for vulnerability assessment and system hardening.
 Cybersecurity frameworks and simulations for identifying and mitigating security threats.
@@ -28,24 +28,24 @@ Knowledge of network security, penetration testing, and encryption techniques.
 
 ##📂 What You’ll Find Here
 
-**🛡 Cybersecurity Projects**
+**🛡 Cybersecurity Projects:**
 
 Hands-on security strategies and simulations to protect systems from cyber threats.
 
 
 Projects showcasing Linux security, penetration testing, and threat mitigation techniques.
 
-**📊 Data Analysis Projects**
+**📊 Data Analysis Projects:**
 
 **Extracting insights from complex datasets using Python, SQL, SSMS, MySQL, PostgreSQL, and Power BI.
 Data visualization and dashboard creation to communicate findings effectively.**
 
-**🤖 AI/Machine Learning Projects**
+**🤖 AI/Machine Learning Projects:**
 
 Real-world applications of machine learning for tasks like prediction, classification, and optimization.
 Leveraging data-driven AI solutions to solve complex problems.
 
-## 🎯 Purpose of This Repository**
+## 🎯 Purpose of This Repository:**
 
 **This repository serves as a testament to my skills, passion, and dedication to technology. It is designed to:**
 
